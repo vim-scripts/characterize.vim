@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4410
+
+In Vim, pressing ga on a character reveals its representation in decimal, octal, and hex.  Characterize.vim modernizes this with the following additions:
+
+* Unicode character names: U+00A9 COPYRIGHT SYMBOL
+* Vim digraphs (type after <C-K> to insert the character): Co, cO
+* Emoji codes: :copyright:
+* HTML entities: &copy;
+
+https://github.com/tpope/vim-characterize
